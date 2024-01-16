@@ -46,8 +46,14 @@
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
-    margin-right: 40px; /* Puedes ajustar el margen entre los botones */
-    display: inline-flex; /* O puedes usar inline-flex según tus necesidades */
+    margin-right: 20px; /* Ajusta el margen entre los botones según tus necesidades */
+    display: inline-flex;
+}
+
+/* Estilos para el contenedor de los botones */
+.buttonContainer {
+    display: flex;
+    align-items: center; /* Ajusta la alineación vertical según tus preferencias */
 }
 
 .heroImg{
@@ -102,10 +108,33 @@
 }
 
 @media screen and (max-width: 830px) {
-    .container{
+    .container {
         flex-direction: column-reverse;
-    }
-    .content{
         align-items: center;
     }
+
+    .content {
+        text-align: center;
+    }
+
+    
+
+    .heroImg {
+        width: 50%;
+    }
+
+    .description{
+    font-size: 23px;
+    font-family: var(--font-roboto);
+    margin-bottom: 50px;
 }
+
+    .topBlur,
+    .bottomBlur {
+        display: none;
+    }
+}
+
+
+
+
