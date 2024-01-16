@@ -9,8 +9,8 @@
   },
   {
     "title": "Gestion Academica ",
-    "imageSrc": "projects/my-task.jpeg",
-    "description": "Aplicacion web para mejorar la gestion academica para aprendices del sena TIC ingresados a la base de datos.",
+    "imageSrc": "projects/project.png",
+    "description": "Aplicacion web para mejorar la gestion academica para aprendices.",
     "skills": ["HTML", "PHP", "JS"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
