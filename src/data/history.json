@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Tecnico Desarrollador de software",
+    "organisation": "Sena TIC",
+    "startDate": "Enero 2023 ",
+    "endDate": "octubre 2023",
+    "experiences": ["Solucion de algoritmos", "Desarrollar Software"],
+    "imageSrc": "history/sena.png"
+  },  
+  {
+    "role": "Estudiante Front-end",
+    "organisation": "Jovenes creaTIvos",
+    "startDate": "Enero 2023 ",
+    "endDate": "diciembre 2023",
+    "experiences": ["Desarrollar paginas ", "Diseño de paginas"],
+    "imageSrc": "history/logo-jc.png"
+  },
+  {
+    "role": "Pruebas de Calidad",
+    "organisation": "Sena TIC",
+    "startDate": "Julio, 2023",
+    "endDate": "octubre 2023",
+    "experiences": [
+      "Evaluación y corrección de errores.",
+      "Mejora continua del proceso de desarrollo."
+    ],
+    "imageSrc": "history/sena.png"
+  }
+]
