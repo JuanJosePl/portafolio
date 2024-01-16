@@ -5,7 +5,7 @@
     "description": "My-Task es un proyecto que se encarga en la gestión de tareas, desarrollado con React.js. El frontend ofrece una interfaz dinámica.",
     "skills": ["React", "CSS", "API"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/JuanJosePl/My-Task"
   },
   {
     "title": "Gestion Academica ",
@@ -21,6 +21,6 @@
     "description": "Mi portafolio es una representación digital de mi identidad y trayectoria. ¡Explora mi portafolio y descubre el viaje detrás de cada proyecto!",
     "skills": ["React", "CSS", "JS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/JuanJosePl/portafolio"
   }
 ]
